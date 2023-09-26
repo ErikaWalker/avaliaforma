@@ -19,7 +19,7 @@ function inicio() {
 
 function start() {
     alert("olá avalia");
-        console.log("Olá avalia no navegador")
-        
-    }
+    console.log("Olá avalia no navegador")
+    inicio()
+}
 
